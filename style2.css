@@ -1,0 +1,32 @@
+*{
+    background-color: pink;
+    background-size: cover;
+}
+h1{
+    background: rgb(253, 253, 253);
+    font-style: italic;
+    color: rgb(182, 180, 180);
+    border-radius: 20px;
+    width: 550px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+    font-size: 50px;
+    text-shadow: rgb(rgb(114, 233, 18), rgb(155, 238, 22), rgba(230, 226, 14, 0.774));
+}
+img{
+    height: 250px;
+    width: fit-content;
+    padding: 0px;
+    margin-top: 50px;
+    margin-left: 475px;
+    border-radius:  50px;
+    border-width: 0px ;
+    image-resolution: 1028px;
+}
+p{
+    text-align: justify;
+    text-indent: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}

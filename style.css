@@ -1,0 +1,27 @@
+*{
+    background-image: url("https://img.freepik.com/free-photo/top-view-lots-pink-hearts_23-2149023199.jpg?w=826&t=st=1720114939~exp=1720115539~hmac=f296454c50b8f7af7c30489f0b860cf5b8411e9b53b2b927eebb076efa7e97fb");
+    background-size: cover;
+}
+h1{
+    background: pink;
+    font-style: italic;
+    color: white;
+    border-radius: 20px;
+    width: 550px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    text-shadow: rgb(rgb(114, 233, 18), rgb(155, 238, 22), rgba(230, 226, 14, 0.774));
+    
+}
+img{
+    height: 250px;
+    width: fit-content;
+    padding: 0px;
+    margin-top: 150px;
+    margin-left: 50px;
+    border-radius:  50px;
+    border: 5px solid black;
+    border-width: 0px ;
+    image-resolution: 1028px;
+}
